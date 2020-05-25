@@ -70,6 +70,7 @@ export default {
     border-radius: 3px;
   }
   .form-control {
+    box-sizing: border-box;
     width: 100%;
     padding: 4px 8px;
     font-size: 1em;

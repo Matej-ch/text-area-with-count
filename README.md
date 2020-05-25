@@ -1,4 +1,4 @@
-# text-area-with-count
+# textarea with count
 
 ```html
 
@@ -11,3 +11,5 @@
 </text-input>
 
 ```
+
+![image of textarea](textarea.jpg)
