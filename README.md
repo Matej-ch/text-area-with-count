@@ -1,4 +1,9 @@
-# textarea with count
+
+# Deprecated
+
+## component was moved to repository [here](https://github.com/Matej-ch/editable-form-elements)
+
+### textarea with count
 
 #### Vue.js 3
 
